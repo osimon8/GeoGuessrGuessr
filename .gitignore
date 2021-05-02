@@ -1,6 +1,7 @@
 50States10K/
 50States500/
 test_data/
+50States100_test/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
